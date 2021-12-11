@@ -1,9 +1,8 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+}
 h1 {
   color: red;
-}
-p {
-  color: teal;
-}
-q {
-  color: mediumseagreen;
+  font-weight: 900;
 }
